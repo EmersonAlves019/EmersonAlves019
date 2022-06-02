@@ -1,8 +1,10 @@
 <h1 align="center" >Emerson Da Silva Alves 🖥️</h1>
 
 
-<p>Maceió - AL</p>
+
 <h3>Sobre mim</h3>
+
+<p>Maceió - AL</p>
 <p>No meu tempo livre, eu gosto de:</p>
 
 - 📖 Estudar
