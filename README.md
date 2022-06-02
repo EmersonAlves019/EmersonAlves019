@@ -1,6 +1,6 @@
 <h1 align="center" >Emerson Da Silva Alves 🖥️</h1>
 
-<h3>Sobre mim<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="40px"></h3>
+<h3>Sobre mim<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="20px"></h3>
 <p>Maceió - AL</p>
 <p>No meu tempo livre, eu gosto de:</p>
 
